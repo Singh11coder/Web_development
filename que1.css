@@ -1,0 +1,94 @@
+*{
+    padding:0px 0px 0px 0px;
+    background-color: rgb(255, 114, 20);
+}
+div{
+    margin-top: 0px;
+    color:white;
+    height:100px;
+    background-color: black; 
+}
+a{
+    margin-right: 50px;
+    background-color: black;
+
+}
+#first{
+    display: inline-block;
+    margin:0px;
+    padding-left: 0px;
+    background-color: black;
+}
+#ph{
+    background-color:white;
+    width: 450px;
+    height:32px;
+    outline:none;
+    font-size: 30px;
+    font-style:15px;
+
+}
+button{
+    height:35px;
+    width:50px;
+}
+#divin{
+    color:white;
+    background-color: rgb(37, 63, 63);
+    height:60px;
+}
+#case1{
+    margin-right:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case2
+{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case3
+{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case4
+{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case5{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+} 
+#case6{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case7{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case8{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case9{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case10{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case11{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#case12{
+    margin:20px;
+    background-color: rgb(37, 63, 63);
+}
+#second{
+    margin:0px;
+    background-color: rgb(37, 63, 63);
+}
